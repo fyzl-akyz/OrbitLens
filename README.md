@@ -22,7 +22,7 @@ OrbitLens relies on the following public APIs:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/fyzl-akyz/orbitlens.git
+   git clone https://github.com/fyzl-akyz/Orbitlens.git
    cd orbitlens
    ```
 
